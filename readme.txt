@@ -11,7 +11,7 @@ License: MIT
 1. PURPOSE
 ---------------------------------------------------------------------
 
-`mlcheck.py` is a command-line tool for validating the syntax of HTML and XML files. 
+Script `mlcheck.py` (MarkupLanguageChecker) is a command-line tool for validating the syntax of HTML and XML files. 
 
 It is designed to quickly find common syntax errors, such as:
 - Mismatched or unclosed tags.
