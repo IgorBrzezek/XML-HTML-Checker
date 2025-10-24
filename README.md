@@ -3,6 +3,7 @@
 
 **Version:** 0.2  
 **Author:** Igor Brzeżek  
+**Email:** igor.brzezek@gmail.com
 **License:** MIT  
 **GitHub:** [github.com/igorbrzezek](https://github.com/igorbrzezek)
 
