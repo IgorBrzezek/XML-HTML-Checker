@@ -9,7 +9,7 @@
 
 ## Overview
 
-`mlcheck.py` is a command-line tool for validating **HTML** and **XML** files, with special support for **Moodle multichoice XML format**. It checks for structural correctness, tag mismatches, and missing required elements. It can operate on single files or scan entire directories (recursively if needed).
+Script `mlcheck.py` (MarkupLanguageChecker) is a command-line tool for validating **HTML** and **XML** files, with special support for **Moodle multichoice XML format**. It checks for structural correctness, tag mismatches, and missing required elements. It can operate on single files or scan entire directories (recursively if needed).
 
 ## Features
 
