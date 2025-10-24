@@ -4,7 +4,7 @@
 **Version:** 0.2  
 **Author:** Igor Brzeżek  
 **License:** MIT  
-**GitHub:** [github/igorbrzezek](https://github.com/igorbrzezek)
+**GitHub:** [github.com/igorbrzezek](https://github.com/igorbrzezek)
 
 ## Overview
 
